@@ -1,0 +1,14 @@
+links:
+  - name: "Github"
+    info: "免费代码托管"
+    img: "https://cdn-icons-png.flaticon.com/512/1051/1051326.png"
+    url: "https://github.com"
+  - name: "Cloudflare"
+    info: "全球加速网络"
+    img: "https://cdn-icons-png.flaticon.com/512/5969/5969044.png"
+    url: "https://cloudflare.com"
+friends:
+  - name: "@Wei Chang"
+    info: "梁炜昌的博客"
+    img: "https://neowc.github.io/assets/img/profile.png"
+    url: "https://neowc.github.io"
