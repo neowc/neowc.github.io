@@ -2,10 +2,10 @@
   name: 'H2O-neo 主题入门系列'
   articles:
   - name: '快速入门'
-    url: 'https://neowc.github.io/tech/hello-jekyll.html'
+    url: 'https://neowc.github.io/hello-jekyll.html'
   - name: '快速入门'
     url: 'https://neowc.github.io/tech/new-theme-h2o.html'
   - name: '快速入门'
-    url: 'https://neowc.github.io/tech/mathjax-test.html'
+    url: 'https://neowc.github.io/test/mathjax-test.html'
   - name: 'Guide'
     url: 'https://neowc.github.io/tech/new-theme-h2o-ac.html'
